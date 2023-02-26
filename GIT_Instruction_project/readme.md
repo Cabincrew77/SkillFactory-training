@@ -1,7 +1,7 @@
 # Инструкция по Работе с **GIT**
 
 ## Оглавление **ЖЭ**
-- [git add](./gitadd.md)
+- [git add](/gitdd.md)
 - [git config](gitconfig.md)
 - [git init](gitinit.md)
 - [git push](gitpush.md)
